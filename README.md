@@ -60,12 +60,15 @@ No es un SO de escritorio, y no intenta serlo.
 Hardware
   ↓
 
+UEFI + Limine
+  ↓
+
 Selkis Exokernel (Rust)
   ↓
 
 WASM Runtime (WASI)
   ↓
-
+  
 Aplicaciones WebAssembly
 
     El kernel no conoce WASI
